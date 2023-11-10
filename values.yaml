@@ -55,7 +55,7 @@ k8s:
 
 # Namespace where helm chart will be deployed
 project:
-  namespace: test-setup
+  namespace: 1819b9d6-5381-45a6-bf4a-75c98e8c5a2a
 
 
 
